@@ -1,0 +1,250 @@
+2020-08-24 15:16:57,330 [main] INFO com.AnyAUT.PrepareRun - Input FIle Path: Demo.xls
+2020-08-24 15:16:57,341 [main] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\Runner\AnyAUT runner\Results\TestRun_24Aug_0316_Demo/TestRun_24Aug_0316_Demo.xls
+2020-08-24 15:16:58,978 [main] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2020-08-24 15:16:58,981 [main] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2020-08-24 15:16:58,983 [main] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2020-08-24 15:16:58,985 [main] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-24 15:16:59,022 [main] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-24 15:16:59,042 [main] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2020-08-24 15:16:59,060 [main] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2020-08-24 15:17:01,367 [main] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_24Aug_0316_Demo/TestRun_24Aug_0316_Demo.xls
+2020-08-24 15:17:01,369 [main] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_24Aug_0316_Demo/RunResult_24Aug_0316_Demo.xls
+2020-08-24 15:17:01,578 [main] INFO com.AnyAUT.ExecuteTest - Rows are 65
+2020-08-24 15:17:01,579 [main] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2020-08-24 15:17:01,602 [main] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 14:36:40,640 [main] INFO com.AnyAUT.PrepareRun - Input FIle Path: Demo.xls
+2020-08-26 14:36:40,650 [main] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\Runner\AnyAUT runner\Results\TestRun_26Aug_0236_Demo/TestRun_26Aug_0236_Demo.xls
+2020-08-26 14:36:42,101 [main] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2020-08-26 14:36:42,101 [main] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2020-08-26 14:36:42,101 [main] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2020-08-26 14:36:42,111 [main] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 14:36:42,141 [main] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 14:36:42,161 [main] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2020-08-26 14:36:42,182 [main] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2020-08-26 14:36:44,611 [main] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_0236_Demo/TestRun_26Aug_0236_Demo.xls
+2020-08-26 14:36:44,611 [main] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_0236_Demo/RunResult_26Aug_0236_Demo.xls
+2020-08-26 14:36:44,791 [main] INFO com.AnyAUT.ExecuteTest - Rows are 65
+2020-08-26 14:36:44,791 [main] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2020-08-26 14:36:44,811 [main] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 14:36:51,487 [main] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-08-26 14:36:54,314 [main] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:36:55,380 [main] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-08-26 14:36:56,883 [main] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-08-26 14:36:57,849 [main] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-08-26 14:36:58,699 [main] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:36:59,758 [main] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-08-26 14:37:26,816 [main] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 14:37:46,875 [main] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2020-08-26 14:37:50,410 [main] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 14:37:54,423 [main] ERROR com.AnyAUT.ExecuteTest - Error : WebDriverException
+2020-08-26 14:40:30,783 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\Runner\AnyAUT runner\Demo.xls
+2020-08-26 14:40:30,793 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\Runner\AnyAUT runner\Results\TestRun_26Aug_0240/TestRun_26Aug_0240.xls
+2020-08-26 14:40:32,124 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2020-08-26 14:40:32,124 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2020-08-26 14:40:32,134 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2020-08-26 14:40:32,134 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 14:40:32,144 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 14:40:32,154 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2020-08-26 14:40:32,174 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2020-08-26 14:40:34,350 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_0240/TestRun_26Aug_0240.xls
+2020-08-26 14:40:34,350 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_0240/RunResult_26Aug_0240.xls
+2020-08-26 14:40:34,490 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 65
+2020-08-26 14:40:34,490 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2020-08-26 14:40:34,510 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 14:40:39,784 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-08-26 14:40:41,876 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:40:42,922 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-08-26 14:40:43,813 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-08-26 14:40:44,485 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-08-26 14:40:45,236 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:40:46,280 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-08-26 14:41:06,052 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 14:41:06,263 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By:  ,Element ID: - ,Test Data: 1
+2020-08-26 14:41:07,340 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyTitle ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/h1234 ,Test Data: Dashboard | 
+2020-08-26 14:41:19,450 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By:  ,Element ID: - ,Test Data: 1
+2020-08-26 14:41:20,500 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/h4 ,Test Data: Test Setup
+2020-08-26 14:41:20,726 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[1]/a/div/div[1]/h4 ,Test Data: Modules
+2020-08-26 14:41:20,909 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[2]/a/div/div[1]/h4 ,Test Data: Test Cases
+2020-08-26 14:41:21,096 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[3]/a/div/div[1]/h4 ,Test Data: Test Steps
+2020-08-26 14:41:21,276 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/h4 ,Test Data: Reusable Components
+2020-08-26 14:41:21,462 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[1]/a/div/div[1]/h4 ,Test Data: Elements
+2020-08-26 14:41:21,648 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[2]/a/div/div[1]/h4 ,Test Data: Test Data
+2020-08-26 14:41:21,813 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[3]/a/div/div[1]/h4 ,Test Data: User Defined Keywords
+2020-08-26 14:41:21,983 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[4]/a/div/div[1] ,Test Data: Built-In Keywords
+2020-08-26 14:41:22,170 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/h4 ,Test Data: -
+2020-08-26 14:41:22,338 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/h4 ,Test Data: Test Run
+2020-08-26 14:41:22,500 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/div/a/div/div[1] ,Test Data: Test Run
+2020-08-26 14:41:22,683 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[4]/h4 ,Test Data: Test Results
+2020-08-26 14:41:22,856 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[4]/div/a/div/div[1]/h4 ,Test Data: Test Results
+2020-08-26 14:41:23,065 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-08-26 14:41:23,222 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-08-26 14:41:23,457 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2020-08-26 14:41:23,624 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2020-08-26 14:41:36,800 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:41:37,869 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2020-08-26 14:41:39,270 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 14:41:43,433 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-08-26 14:41:45,344 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:41:46,390 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-08-26 14:41:47,260 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-08-26 14:41:47,823 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-08-26 14:41:48,519 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:41:49,568 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-08-26 14:42:08,760 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 14:42:08,960 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 14:42:09,098 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/a ,Test Data: Test Plan
+2020-08-26 14:42:09,271 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']//a[@href='run-setup.php'] ,Test Data: Test Run Setup
+2020-08-26 14:42:09,433 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']//a[@href='test-run.php'] ,Test Data: Test Run
+2020-08-26 14:42:09,592 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']//a[@href='test-results.php'] ,Test Data: Test Results
+2020-08-26 14:42:09,821 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/a ,Test Data: 
+2020-08-26 14:42:10,215 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:42:11,280 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/a ,Test Data: Test Setup
+2020-08-26 14:42:11,491 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/a ,Test Data: Reusable Components
+2020-08-26 14:42:11,829 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul//a[@title='Export to the Excel sheet'] ,Test Data: Export Test Setup
+2020-08-26 14:42:12,164 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/a ,Test Data: 
+2020-08-26 14:42:12,445 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:42:13,491 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='aut-details.php'] ,Test Data: AUT
+2020-08-26 14:42:14,154 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='add-module.php'] ,Test Data: Modules
+2020-08-26 14:42:14,566 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='add-test-case.php'] ,Test Data: Test Cases
+2020-08-26 14:42:14,966 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='add-test-steps.php'] ,Test Data: Test Steps
+2020-08-26 14:42:15,299 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/a ,Test Data: 
+2020-08-26 14:42:15,588 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 14:42:16,670 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='add-element-map.php'] ,Test Data: Element Map
+2020-08-26 14:42:16,920 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='add-test-data.php'] ,Test Data: Test Data
+2020-08-26 14:42:17,130 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='add-hlk.php'] ,Test Data: User Defined Keywords
+2020-08-26 14:42:17,652 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='llk.php'] ,Test Data: Built-In Keywords
+2020-08-26 14:42:17,874 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2020-08-26 15:08:11,213 [main] INFO com.AnyAUT.PrepareRun - Input FIle Path: Demo.xls
+2020-08-26 15:08:11,222 [main] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\Runner\AnyAUT runner\Results\TestRun_26Aug_0308_Demo/TestRun_26Aug_0308_Demo.xls
+2020-08-26 21:59:02,908 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\Runner\AnyAUT runner\Demo.xls
+2020-08-26 21:59:02,923 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\Runner\AnyAUT runner\Results\TestRun_26Aug_0958/TestRun_26Aug_0958.xls
+2020-08-26 21:59:04,926 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2020-08-26 21:59:04,929 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2020-08-26 21:59:04,932 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2020-08-26 21:59:04,934 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 21:59:04,982 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 21:59:04,990 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2020-08-26 21:59:05,018 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2020-08-26 21:59:07,455 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_0958/TestRun_26Aug_0958.xls
+2020-08-26 21:59:07,455 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_0958/RunResult_26Aug_0958.xls
+2020-08-26 21:59:07,555 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 65
+2020-08-26 21:59:07,555 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2020-08-26 21:59:07,566 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 21:59:14,356 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-08-26 21:59:18,850 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 21:59:19,893 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-08-26 21:59:21,390 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-08-26 21:59:21,830 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-08-26 21:59:22,264 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 21:59:23,345 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-08-26 21:59:45,670 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 21:59:46,037 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By:  ,Element ID: - ,Test Data: 1
+2020-08-26 21:59:47,201 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyTitle ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/h1234 ,Test Data: Dashboard | 
+2020-08-26 21:59:59,371 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By:  ,Element ID: - ,Test Data: 1
+2020-08-26 22:00:00,460 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/h4 ,Test Data: Test Setup
+2020-08-26 22:00:00,825 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[1]/a/div/div[1]/h4 ,Test Data: Modules
+2020-08-26 22:00:01,113 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[2]/a/div/div[1]/h4 ,Test Data: Test Cases
+2020-08-26 22:00:01,349 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[3]/a/div/div[1]/h4 ,Test Data: Test Steps
+2020-08-26 22:00:01,574 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/h4 ,Test Data: Reusable Components
+2020-08-26 22:00:01,778 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[1]/a/div/div[1]/h4 ,Test Data: Elements
+2020-08-26 22:00:02,097 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[2]/a/div/div[1]/h4 ,Test Data: Test Data
+2020-08-26 22:00:02,294 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[3]/a/div/div[1]/h4 ,Test Data: User Defined Keywords
+2020-08-26 22:00:02,500 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[4]/a/div/div[1] ,Test Data: Built-In Keywords
+2020-08-26 22:00:02,701 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/h4 ,Test Data: -
+2020-08-26 22:00:02,931 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/h4 ,Test Data: Test Run
+2020-08-26 22:00:03,109 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/div/a/div/div[1] ,Test Data: Test Run
+2020-08-26 22:00:03,253 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[4]/h4 ,Test Data: Test Results
+2020-08-26 22:00:03,421 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[4]/div/a/div/div[1]/h4 ,Test Data: Test Results
+2020-08-26 22:00:03,744 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-08-26 22:00:04,113 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-08-26 22:00:04,469 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2020-08-26 22:00:04,672 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2020-08-26 22:00:18,550 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:00:19,628 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2020-08-26 22:00:21,390 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 22:00:25,345 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-08-26 22:00:29,653 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:00:30,712 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-08-26 22:00:32,230 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-08-26 22:00:33,004 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-08-26 22:00:33,550 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:00:34,587 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-08-26 22:00:53,394 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 22:00:53,695 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 22:00:53,892 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/a ,Test Data: Test Plan
+2020-08-26 22:00:54,145 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']//a[@href='run-setup.php'] ,Test Data: Test Run Setup
+2020-08-26 22:00:54,344 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']//a[@href='test-run.php'] ,Test Data: Test Run
+2020-08-26 22:00:54,551 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']//a[@href='test-results.php'] ,Test Data: Test Results
+2020-08-26 22:00:54,780 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/a ,Test Data: 
+2020-08-26 22:00:55,136 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:00:56,289 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/a ,Test Data: Test Setup
+2020-08-26 22:00:56,730 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/a ,Test Data: Reusable Components
+2020-08-26 22:00:57,114 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul//a[@title='Export to the Excel sheet'] ,Test Data: Export Test Setup
+2020-08-26 22:00:57,563 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/a ,Test Data: 
+2020-08-26 22:00:58,320 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:00:59,384 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='aut-details.php'] ,Test Data: AUT
+2020-08-26 22:00:59,609 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='add-module.php'] ,Test Data: Modules
+2020-08-26 22:00:59,805 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='add-test-case.php'] ,Test Data: Test Cases
+2020-08-26 22:01:00,107 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[1]/ul//a[@href='add-test-steps.php'] ,Test Data: Test Steps
+2020-08-26 22:01:00,280 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/a ,Test Data: 
+2020-08-26 22:01:00,521 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:01:01,560 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='add-element-map.php'] ,Test Data: Element Map
+2020-08-26 22:01:01,745 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='add-test-data.php'] ,Test Data: Test Data
+2020-08-26 22:01:01,913 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='add-hlk.php'] ,Test Data: User Defined Keywords
+2020-08-26 22:01:02,096 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//ul[@class='nav side-menu']/li[2]/ul/li[2]/ul//a[@href='llk.php'] ,Test Data: Built-In Keywords
+2020-08-26 22:01:02,254 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2020-08-26 22:03:55,176 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\Runner\AnyAUT runner\Demo.xls
+2020-08-26 22:03:55,189 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\Runner\AnyAUT runner\Results\TestRun_26Aug_1003/TestRun_26Aug_1003.xls
+2020-08-26 22:03:56,529 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2020-08-26 22:03:56,534 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2020-08-26 22:03:56,541 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2020-08-26 22:03:56,542 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 22:03:56,551 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-08-26 22:03:56,556 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2020-08-26 22:03:56,569 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2020-08-26 22:03:58,914 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_1003/TestRun_26Aug_1003.xls
+2020-08-26 22:03:58,915 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\Runner\AnyAUT runner/Results/TestRun_26Aug_1003/RunResult_26Aug_1003.xls
+2020-08-26 22:03:59,016 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 65
+2020-08-26 22:03:59,017 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2020-08-26 22:03:59,024 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 22:04:04,900 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-08-26 22:04:08,631 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:04:09,690 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-08-26 22:04:11,292 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-08-26 22:04:11,799 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-08-26 22:04:12,191 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:04:13,274 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-08-26 22:04:37,814 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 22:04:38,153 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By:  ,Element ID: - ,Test Data: 1
+2020-08-26 22:04:39,269 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyTitle ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/h1234 ,Test Data: Dashboard | 
+2020-08-26 22:04:51,587 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By:  ,Element ID: - ,Test Data: 1
+2020-08-26 22:04:52,675 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/h4 ,Test Data: Test Setup
+2020-08-26 22:04:53,043 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[1]/a/div/div[1]/h4 ,Test Data: Modules
+2020-08-26 22:04:53,384 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[2]/a/div/div[1]/h4 ,Test Data: Test Cases
+2020-08-26 22:04:53,622 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[1]/div[3]/a/div/div[1]/h4 ,Test Data: Test Steps
+2020-08-26 22:04:53,791 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/h4 ,Test Data: Reusable Components
+2020-08-26 22:04:54,038 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[1]/a/div/div[1]/h4 ,Test Data: Elements
+2020-08-26 22:04:54,220 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[2]/a/div/div[1]/h4 ,Test Data: Test Data
+2020-08-26 22:04:54,443 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[3]/a/div/div[1]/h4 ,Test Data: User Defined Keywords
+2020-08-26 22:04:54,668 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[2]/div[4]/a/div/div[1] ,Test Data: Built-In Keywords
+2020-08-26 22:04:54,834 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/h4 ,Test Data: -
+2020-08-26 22:04:54,977 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/h4 ,Test Data: Test Run
+2020-08-26 22:04:55,100 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[3]/div/a/div/div[1] ,Test Data: Test Run
+2020-08-26 22:04:55,227 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[4]/h4 ,Test Data: Test Results
+2020-08-26 22:04:55,381 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[3]/div[4]/div/a/div/div[1]/h4 ,Test Data: Test Results
+2020-08-26 22:04:55,563 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-08-26 22:04:55,730 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-08-26 22:04:56,047 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2020-08-26 22:04:56,313 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2020-08-26 22:05:09,705 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:05:10,801 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2020-08-26 22:05:13,965 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-08-26 22:05:18,189 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-08-26 22:05:22,095 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:05:23,141 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-08-26 22:05:24,857 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-08-26 22:05:25,494 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-08-26 22:05:26,346 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-08-26 22:05:27,401 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-08-26 22:05:27,810 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-08-26 22:05:39,882 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
