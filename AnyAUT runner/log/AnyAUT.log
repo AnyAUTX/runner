@@ -248,3 +248,138 @@
 2020-08-26 22:05:27,401 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
 2020-08-26 22:05:27,810 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
 2020-08-26 22:05:39,882 - com.AnyAUT.ExecuteTest -ERROR - Error : NoSuchElementException
+2020-09-09 21:09:30,474 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\IAS_Consolidated_Testcases_v75_AutoAssigner_v0.2.xls
+2020-09-09 21:09:30,479 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_09Sep_0909/TestRun_09Sep_0909.xls
+2020-09-09 21:09:32,213 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-09-09 21:09:32,215 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-09-09 21:09:32,216 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-09-09 21:09:32,218 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-09-09 21:09:32,224 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-09-09 21:09:32,226 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-09-09 21:09:32,849 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_09Sep_0909/TestRun_09Sep_0909.xls
+2020-09-09 21:09:32,850 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_09Sep_0909/RunResult_09Sep_0909.xls
+2020-09-09 21:09:32,867 - com.AnyAUT.ExecuteTest -INFO - Rows are 11
+2020-09-09 21:09:32,868 - com.AnyAUT.ExecuteTest -INFO - Cols are 16
+2020-09-09 21:09:32,875 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://2005.claimatic.net/administration/assignment#administration/admin_tools/team_logic_wizard/index
+2020-09-09 21:09:39,556 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://2005.claimatic.net/administration/assignment#administration/admin_tools/team_logic_wizard/index
+2020-09-09 21:09:43,226 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@type='text'] ,Test Data: anyautxl
+2020-09-09 21:09:43,440 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@type='password'] ,Test Data: fish90
+2020-09-09 21:09:43,608 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@type='submit'] ,Test Data: -
+2020-09-09 21:09:43,719 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 5
+2020-09-09 21:09:48,744 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'Customer001')]//parent::div/following-sibling::span/a[4] ,Test Data: -
+2020-09-09 21:09:48,819 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 2
+2020-09-09 21:09:50,853 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'Customer001')]//parent::div/following-sibling::span/a[4] ,Test Data: -
+2020-09-09 21:09:50,969 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 7
+2020-09-09 21:11:34,841 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\IAS_Consolidated_Testcases_v75_AutoAssigner_v0.2.xls
+2020-09-09 21:11:34,846 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_09Sep_0911/TestRun_09Sep_0911.xls
+2020-09-09 21:11:36,417 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-09-09 21:11:36,419 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-09-09 21:11:36,419 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-09-09 21:11:36,420 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-09-09 21:11:36,426 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-09-09 21:11:36,429 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-09-09 21:11:37,097 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_09Sep_0911/TestRun_09Sep_0911.xls
+2020-09-09 21:11:37,097 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_09Sep_0911/RunResult_09Sep_0911.xls
+2020-09-09 21:11:37,111 - com.AnyAUT.ExecuteTest -INFO - Rows are 12
+2020-09-09 21:11:37,111 - com.AnyAUT.ExecuteTest -INFO - Cols are 16
+2020-09-09 21:11:37,116 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://2005.claimatic.net/administration/assignment#administration/admin_tools/team_logic_wizard/index
+2020-09-09 21:11:43,668 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://2005.claimatic.net/administration/assignment#administration/admin_tools/team_logic_wizard/index
+2020-09-09 21:11:47,317 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@type='text'] ,Test Data: anyautxl
+2020-09-09 21:11:47,542 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@type='password'] ,Test Data: fish90
+2020-09-09 21:11:47,720 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@type='submit'] ,Test Data: -
+2020-09-09 21:11:47,839 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 5
+2020-09-09 21:11:52,903 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 2
+2020-09-09 21:11:54,964 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'Customer001')]//parent::div/following-sibling::span/a[4] ,Test Data: -
+2020-09-09 21:11:55,064 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 2
+2020-09-09 21:11:57,123 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'Customer001')]//parent::div/following-sibling::span/a[4] ,Test Data: -
+2020-09-09 21:11:57,251 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 7
+2020-09-09 23:29:33,859 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\IAS_Consolidated_Testcases_v75_AutoAssigner_v0.2.xls
+2020-09-09 23:29:33,863 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_09Sep_1129/TestRun_09Sep_1129.xls
+2020-09-09 23:29:35,649 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-09-09 23:29:35,651 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-09-09 23:29:35,652 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-09-09 23:29:35,653 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-09-09 23:29:35,659 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-09-09 23:29:35,662 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-09-09 23:29:36,383 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_09Sep_1129/TestRun_09Sep_1129.xls
+2020-09-09 23:29:36,384 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_09Sep_1129/RunResult_09Sep_1129.xls
+2020-09-09 23:29:36,396 - com.AnyAUT.ExecuteTest -INFO - Rows are 14
+2020-09-09 23:29:36,396 - com.AnyAUT.ExecuteTest -INFO - Cols are 16
+2020-09-09 23:29:36,402 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://2005.claimatic.net/administration/assignment#administration/admin_tools/team_logic_wizard/index
+2020-09-09 23:29:43,022 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://2005.claimatic.net/administration/assignment#administration/admin_tools/team_logic_wizard/index
+2020-09-09 23:29:46,960 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@type='text'] ,Test Data: anyautxl
+2020-09-09 23:29:47,210 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@type='password'] ,Test Data: fish90
+2020-09-09 23:29:47,428 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@type='submit'] ,Test Data: -
+2020-09-09 23:29:47,559 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 5
+2020-09-09 23:29:52,608 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 2
+2020-09-09 23:29:54,666 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'AutoRule001')]//parent::div/following-sibling::span/a[4] ,Test Data: -
+2020-09-09 23:29:54,763 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 2
+2020-09-09 23:29:56,816 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'AutoRule001')]//parent::div/following-sibling::span/a[4] ,Test Data: -
+2020-09-09 23:29:56,922 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 7
+2020-09-09 23:30:03,969 - com.AnyAUT.ExecuteTest -INFO - KW: enterKeyboard ,Element Type: - ,Element By: - ,Element ID:  ,Test Data: 
+2020-09-09 23:30:04,015 - com.AnyAUT.ExecuteTest -ERROR - Error : InvalidSelectorException
+2020-09-09 23:30:04,390 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 5
+2020-09-11 11:12:05,319 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2020-09-11 11:12:05,324 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Sep_1111/TestRun_11Sep_1111.xls
+2020-09-11 11:12:05,894 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-09-11 11:12:05,896 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-09-11 11:12:05,896 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-09-11 11:12:05,897 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-09-11 11:12:05,902 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-09-11 11:12:05,906 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-09-11 11:12:06,822 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Sep_1111/TestRun_11Sep_1111.xls
+2020-09-11 11:12:06,823 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Sep_1111/RunResult_11Sep_1111.xls
+2020-09-11 11:12:06,874 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2020-09-11 11:12:06,874 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2020-09-11 11:12:06,883 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-09-11 11:12:13,687 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-09-11 11:12:14,087 - com.AnyAUT.ExecuteTest -ERROR - Error : WebDriverException
+2020-09-11 11:13:29,174 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2020-09-11 11:13:29,179 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Sep_1113/TestRun_11Sep_1113.xls
+2020-09-11 11:13:29,660 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-09-11 11:13:29,661 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-09-11 11:13:29,662 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-09-11 11:13:29,663 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-09-11 11:13:29,713 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-09-11 11:13:29,716 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-09-11 11:13:30,398 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Sep_1113/TestRun_11Sep_1113.xls
+2020-09-11 11:13:30,399 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Sep_1113/RunResult_11Sep_1113.xls
+2020-09-11 11:13:30,441 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2020-09-11 11:13:30,441 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2020-09-11 11:13:30,450 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-09-11 11:13:37,071 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-09-11 11:13:38,258 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-09-11 11:13:39,281 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-09-11 11:13:39,766 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-09-11 11:13:40,042 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-09-11 11:13:40,300 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-09-11 11:13:41,352 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-09-11 11:13:49,557 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-09-11 11:13:49,578 - com.AnyAUT.ExecuteTest -ERROR - Error : NoSuchWindowException
+2020-09-11 22:18:40,740 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2020-09-11 22:18:40,748 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Sep_1018/TestRun_11Sep_1018.xls
+2020-09-11 22:18:41,356 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-09-11 22:18:41,358 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-09-11 22:18:41,359 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-09-11 22:18:41,360 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-09-11 22:18:41,367 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-09-11 22:18:41,371 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-09-11 22:18:42,545 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Sep_1018/TestRun_11Sep_1018.xls
+2020-09-11 22:18:42,545 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Sep_1018/RunResult_11Sep_1018.xls
+2020-09-11 22:18:42,609 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2020-09-11 22:18:42,610 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2020-09-11 22:18:42,617 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-09-11 22:18:49,595 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-09-11 22:18:50,805 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-09-11 22:18:51,834 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-09-11 22:18:52,444 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-09-11 22:18:52,891 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-09-11 22:18:53,193 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-09-11 22:18:54,226 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-09-11 22:19:08,950 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-09-11 22:19:09,054 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2020-09-11 22:19:10,086 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-09-11 22:19:10,227 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2020-09-11 22:19:10,334 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2020-09-11 22:19:22,926 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-09-11 22:19:23,960 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
