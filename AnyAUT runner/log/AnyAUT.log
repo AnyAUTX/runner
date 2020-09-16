@@ -383,3 +383,19 @@
 2020-09-11 22:19:10,334 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
 2020-09-11 22:19:22,926 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
 2020-09-11 22:19:23,960 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2020-09-12 23:23:57,761 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: Demo.xls
+2020-09-12 23:23:57,766 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_12Sep_1123_Demo/TestRun_12Sep_1123_Demo.xls
+2020-09-12 23:23:58,265 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-09-12 23:23:58,266 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-09-12 23:23:58,267 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-09-12 23:23:58,268 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-09-12 23:23:58,289 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-09-12 23:23:58,292 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-09-12 23:23:59,104 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_12Sep_1123_Demo/TestRun_12Sep_1123_Demo.xls
+2020-09-12 23:23:59,104 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_12Sep_1123_Demo/RunResult_12Sep_1123_Demo.xls
+2020-09-12 23:23:59,157 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2020-09-12 23:23:59,158 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2020-09-12 23:23:59,167 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-09-12 23:24:05,828 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-09-12 23:24:07,265 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-09-12 23:24:08,323 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
