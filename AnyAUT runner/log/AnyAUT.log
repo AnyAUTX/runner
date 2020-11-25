@@ -399,3 +399,30 @@
 2020-09-12 23:24:05,828 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
 2020-09-12 23:24:07,265 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
 2020-09-12 23:24:08,323 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-11-25 11:52:23,678 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2020-11-25 11:52:23,683 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_25Nov_1152/TestRun_25Nov_1152.xls
+2020-11-25 11:52:24,154 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-11-25 11:52:24,155 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-11-25 11:52:24,155 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-11-25 11:52:24,156 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-11-25 11:52:24,158 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-11-25 11:52:24,160 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-11-25 11:52:24,864 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_25Nov_1152/TestRun_25Nov_1152.xls
+2020-11-25 11:52:24,865 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_25Nov_1152/RunResult_25Nov_1152.xls
+2020-11-25 11:52:24,920 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2020-11-25 11:52:24,920 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2020-11-25 11:52:24,928 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-11-25 11:52:31,496 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-11-25 11:52:43,512 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:52:44,582 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-11-25 11:52:47,202 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-11-25 11:52:47,621 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-11-25 11:52:47,830 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:52:48,887 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-11-25 11:53:40,413 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-11-25 11:53:40,547 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:53:41,634 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-11-25 11:53:41,930 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2020-11-25 11:53:42,077 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2020-11-25 11:53:59,753 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:54:00,839 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -

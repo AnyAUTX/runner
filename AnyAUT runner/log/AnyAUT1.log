@@ -399,3 +399,30 @@
 2020-09-12 23:24:05,828 [main] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
 2020-09-12 23:24:07,265 [main] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
 2020-09-12 23:24:08,323 [main] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-11-25 11:52:23,678 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2020-11-25 11:52:23,683 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_25Nov_1152/TestRun_25Nov_1152.xls
+2020-11-25 11:52:24,154 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2020-11-25 11:52:24,155 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2020-11-25 11:52:24,155 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2020-11-25 11:52:24,156 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2020-11-25 11:52:24,158 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2020-11-25 11:52:24,160 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2020-11-25 11:52:24,864 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_25Nov_1152/TestRun_25Nov_1152.xls
+2020-11-25 11:52:24,865 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_25Nov_1152/RunResult_25Nov_1152.xls
+2020-11-25 11:52:24,920 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 16
+2020-11-25 11:52:24,920 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2020-11-25 11:52:24,928 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-11-25 11:52:31,496 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-11-25 11:52:43,512 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:52:44,582 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-11-25 11:52:47,202 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-11-25 11:52:47,621 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-11-25 11:52:47,830 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:52:48,887 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-11-25 11:53:40,413 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-11-25 11:53:40,547 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:53:41,634 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-11-25 11:53:41,930 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2020-11-25 11:53:42,077 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2020-11-25 11:53:59,753 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-11-25 11:54:00,839 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
