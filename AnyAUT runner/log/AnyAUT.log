@@ -426,3 +426,41 @@
 2020-11-25 11:53:42,077 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
 2020-11-25 11:53:59,753 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
 2020-11-25 11:54:00,839 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2020-12-24 09:36:08,013 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2020-12-24 09:36:08,018 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_24Dec_0935/TestRun_24Dec_0935.xls
+2020-12-24 09:36:08,522 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-12-24 09:36:08,523 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-12-24 09:36:08,524 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-12-24 09:36:08,524 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-12-24 09:36:08,526 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-12-24 09:36:09,155 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_24Dec_0935/TestRun_24Dec_0935.xls
+2020-12-24 09:36:09,155 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_24Dec_0935/RunResult_24Dec_0935.xls
+2020-12-24 09:36:09,192 - com.AnyAUT.ExecuteTest -INFO - Rows are 1
+2020-12-24 09:36:09,192 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2020-12-24 09:37:17,063 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2020-12-24 09:37:17,067 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_24Dec_0937/TestRun_24Dec_0937.xls
+2020-12-24 09:37:17,615 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2020-12-24 09:37:17,616 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2020-12-24 09:37:17,617 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2020-12-24 09:37:17,617 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2020-12-24 09:37:17,621 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2020-12-24 09:37:17,623 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2020-12-24 09:37:18,264 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_24Dec_0937/TestRun_24Dec_0937.xls
+2020-12-24 09:37:18,264 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_24Dec_0937/RunResult_24Dec_0937.xls
+2020-12-24 09:37:18,304 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2020-12-24 09:37:18,304 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2020-12-24 09:37:18,311 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2020-12-24 09:37:25,062 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/X/
+2020-12-24 09:37:28,225 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-12-24 09:37:29,287 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2020-12-24 09:37:30,891 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2020-12-24 09:37:31,167 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2020-12-24 09:37:31,406 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-12-24 09:37:32,426 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2020-12-24 09:37:48,497 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2020-12-24 09:37:48,656 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2020-12-24 09:37:49,738 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2020-12-24 09:37:50,067 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2020-12-24 09:37:50,235 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2020-12-24 09:38:04,031 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2020-12-24 09:38:05,102 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
