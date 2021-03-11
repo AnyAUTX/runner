@@ -1249,3 +1249,163 @@
 2021-03-10 10:26:22,298 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
 2021-03-10 10:26:36,652 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
 2021-03-10 10:26:37,715 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-11 10:16:51,386 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v4.xls
+2021-03-11 10:16:51,396 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Mar_1016/TestRun_11Mar_1016.xls
+2021-03-11 10:16:52,033 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2021-03-11 10:16:52,034 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2021-03-11 10:16:52,036 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2021-03-11 10:16:52,038 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:16:52,041 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:16:52,044 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:16:52,047 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:16:52,050 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:16:52,053 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:16:52,056 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2021-03-11 10:16:52,063 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2021-03-11 10:16:53,893 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1016/TestRun_11Mar_1016.xls
+2021-03-11 10:16:53,894 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1016/RunResult_11Mar_1016.xls
+2021-03-11 10:16:53,988 - com.AnyAUT.ExecuteTest -INFO - Rows are 86
+2021-03-11 10:16:53,989 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2021-03-11 10:16:53,999 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:17:07,830 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-11 10:17:11,366 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:17:12,401 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-11 10:17:26,146 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-11 10:17:26,389 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-11 10:17:26,594 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:17:27,633 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-11 10:17:34,704 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:17:35,732 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-11 10:17:35,762 - com.AnyAUT.ExecuteTest -ERROR - Error : NoSuchWindowException
+2021-03-11 10:17:35,787 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-11 10:17:35,808 - com.AnyAUT.ExecuteTest -ERROR - Error : NoSuchWindowException
+2021-03-11 10:17:40,387 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:17:47,510 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-11 10:17:50,884 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:17:51,923 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-11 10:18:04,546 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-11 10:18:04,568 - com.AnyAUT.ExecuteTest -ERROR - Error : NoSuchWindowException
+2021-03-11 10:18:08,737 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:18:15,035 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-11 10:18:17,419 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:18:18,456 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-11 10:18:32,286 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-11 10:18:32,587 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-11 10:18:32,885 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:18:33,960 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-11 10:18:39,971 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 3
+2021-03-11 10:18:42,998 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Great Gift Wrap Up')] ,Test Data: -
+2021-03-11 10:18:43,021 - com.AnyAUT.ExecuteTest -ERROR - Error : NoSuchWindowException
+2021-03-11 10:18:43,037 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-11 10:18:43,861 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:18:49,945 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-11 10:18:54,560 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:18:55,590 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-11 10:19:09,717 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-11 10:19:10,132 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-11 10:19:10,429 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:19:11,496 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-11 10:19:32,723 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Profile')] ,Test Data: 
+2021-03-11 10:19:33,080 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[@id='edit-profile-top'] ,Test Data: 
+2021-03-11 10:19:46,619 - com.AnyAUT.ExecuteTest -INFO - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: 
+2021-03-11 10:19:46,809 - com.AnyAUT.ExecuteTest -INFO - is displayed Pass
+2021-03-11 10:19:46,859 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: NORTON STREET
+2021-03-11 10:19:47,279 - com.AnyAUT.ExecuteTest -INFO - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: 
+2021-03-11 10:19:47,445 - com.AnyAUT.ExecuteTest -INFO - is displayed Pass
+2021-03-11 10:19:47,577 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: No 15
+2021-03-11 10:19:47,857 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='footer-button-wrapper']//a[@id='editprofile-savechanges'] ,Test Data: 
+2021-03-11 10:19:48,135 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  - ,Element By:  - ,Element ID:  ,Test Data: 5
+2021-03-11 10:19:53,232 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: 
+2021-03-11 10:19:53,547 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: NORTON STREET
+2021-03-11 10:19:53,690 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'No 15')] ,Test Data: No 15
+2021-03-11 10:19:53,941 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:20:00,146 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-11 10:20:04,191 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:20:05,268 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-11 10:20:20,261 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-11 10:20:20,739 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-11 10:20:21,033 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:20:22,113 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-11 10:20:41,912 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Win/Loss Statement')] ,Test Data: 
+2021-03-11 10:20:43,285 - com.AnyAUT.ExecuteTest -INFO - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[@id='jumptoheader'] ,Test Data: 
+2021-03-11 10:20:43,438 - com.AnyAUT.ExecuteTest -INFO - is displayed Pass
+2021-03-11 10:20:43,676 - com.AnyAUT.ExecuteTest -INFO - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='win-loss-statement-dropdown'] ,Test Data: 2019
+2021-03-11 10:20:43,864 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='terms-and-conditions-checkbox'] ,Test Data: 
+2021-03-11 10:20:44,038 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@id='generate-statement-button'] ,Test Data: 
+2021-03-11 10:20:44,274 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: Reusable Element ,Element By:  ,Element ID:  ,Test Data: 
+2021-03-11 10:20:45,155 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:20:54,124 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-11 10:20:57,048 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:20:58,077 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-11 10:21:12,339 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-11 10:21:12,837 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-11 10:21:13,139 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:21:14,192 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-11 10:21:32,401 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Rewards Statement')] ,Test Data: 
+2021-03-11 10:21:34,129 - com.AnyAUT.ExecuteTest -INFO - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[@id='jumptoheader'] ,Test Data: 
+2021-03-11 10:21:34,246 - com.AnyAUT.ExecuteTest -INFO - is displayed Pass
+2021-03-11 10:21:34,291 - com.AnyAUT.ExecuteTest -INFO - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='rewards-history-dropdown'] ,Test Data: December 2020
+2021-03-11 10:21:34,525 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  - ,Element By:  - ,Element ID:  ,Test Data: 5
+2021-03-11 10:21:39,640 - com.AnyAUT.ExecuteTest -INFO - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h5[contains(text(),'Earned Reward Credits')] ,Test Data: 
+2021-03-11 10:21:39,790 - com.AnyAUT.ExecuteTest -INFO - is displayed Pass
+2021-03-11 10:21:39,827 - com.AnyAUT.ExecuteTest -INFO - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h5[contains(text(),'Total Earned This Month')] ,Test Data: 
+2021-03-11 10:21:39,926 - com.AnyAUT.ExecuteTest -INFO - is displayed Pass
+2021-03-11 10:36:04,478 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2021-03-11 10:36:04,493 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Mar_1035/TestRun_11Mar_1035.xls
+2021-03-11 10:36:05,460 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2021-03-11 10:36:05,460 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2021-03-11 10:36:05,460 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2021-03-11 10:36:05,460 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:36:05,466 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2021-03-11 10:36:05,476 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2021-03-11 10:36:06,825 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1035/TestRun_11Mar_1035.xls
+2021-03-11 10:36:06,826 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1035/RunResult_11Mar_1035.xls
+2021-03-11 10:36:06,894 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2021-03-11 10:36:06,894 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2021-03-11 10:36:06,910 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:36:18,026 - com.AnyAUT.ExecuteTest -ERROR - Error : NullPointerException
+2021-03-11 10:40:08,559 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2021-03-11 10:40:08,564 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Mar_1040/TestRun_11Mar_1040.xls
+2021-03-11 10:40:09,034 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2021-03-11 10:40:09,034 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2021-03-11 10:40:09,034 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2021-03-11 10:40:09,034 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:40:09,041 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2021-03-11 10:40:09,044 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2021-03-11 10:40:10,069 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1040/TestRun_11Mar_1040.xls
+2021-03-11 10:40:10,069 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1040/RunResult_11Mar_1040.xls
+2021-03-11 10:40:10,139 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2021-03-11 10:40:10,139 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2021-03-11 10:40:10,149 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:40:17,426 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/test/
+2021-03-11 10:40:22,291 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:40:23,353 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2021-03-11 10:40:24,138 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2021-03-11 10:40:24,256 - com.AnyAUT.ExecuteTest -ERROR - Error : NoSuchWindowException
+2021-03-11 10:41:17,217 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2021-03-11 10:41:17,223 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Mar_1040/TestRun_11Mar_1040.xls
+2021-03-11 10:41:17,857 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2021-03-11 10:41:17,859 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2021-03-11 10:41:17,860 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2021-03-11 10:41:17,860 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2021-03-11 10:41:17,868 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2021-03-11 10:41:17,871 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2021-03-11 10:41:19,017 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1040/TestRun_11Mar_1040.xls
+2021-03-11 10:41:19,017 - com.AnyAUT.ExecuteTest -INFO - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_1040/RunResult_11Mar_1040.xls
+2021-03-11 10:41:19,058 - com.AnyAUT.ExecuteTest -INFO - Rows are 16
+2021-03-11 10:41:19,059 - com.AnyAUT.ExecuteTest -INFO - Cols are 256
+2021-03-11 10:41:19,062 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 10:41:26,314 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/test/
+2021-03-11 10:41:31,030 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:41:32,081 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2021-03-11 10:41:33,581 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2021-03-11 10:41:33,884 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2021-03-11 10:41:34,216 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:41:35,277 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2021-03-11 10:41:53,886 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2021-03-11 10:41:54,098 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:41:55,178 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2021-03-11 10:41:55,520 - com.AnyAUT.ExecuteTest -INFO - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2021-03-11 10:41:55,729 - com.AnyAUT.ExecuteTest -INFO - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2021-03-11 10:42:10,210 - com.AnyAUT.ExecuteTest -INFO - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 10:42:11,329 - com.AnyAUT.ExecuteTest -INFO - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
