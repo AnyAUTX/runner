@@ -1409,3 +1409,44 @@
 2021-03-11 10:41:55,729 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
 2021-03-11 10:42:10,210 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
 2021-03-11 10:42:11,329 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-11 14:05:05,178 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2021-03-11 14:05:05,188 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Mar_0204/TestRun_11Mar_0204.xls
+2021-03-11 14:05:05,748 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-11 14:05:05,748 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-11 14:05:05,749 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-11 14:05:05,750 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-11 14:05:05,753 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-11 14:05:05,757 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-11 14:05:06,735 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_0204/TestRun_11Mar_0204.xls
+2021-03-11 14:05:06,735 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_0204/RunResult_11Mar_0204.xls
+2021-03-11 14:05:06,784 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 16
+2021-03-11 14:05:06,784 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-11 14:05:06,795 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: chrome
+2021-03-11 14:05:24,995 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NullPointerException
+2021-03-11 14:05:46,462 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo.xls
+2021-03-11 14:05:46,466 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_11Mar_0205/TestRun_11Mar_0205.xls
+2021-03-11 14:05:46,947 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-11 14:05:46,948 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-11 14:05:46,948 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-11 14:05:46,949 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-11 14:05:46,952 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-11 14:05:46,954 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-11 14:05:47,786 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_0205/TestRun_11Mar_0205.xls
+2021-03-11 14:05:47,786 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_11Mar_0205/RunResult_11Mar_0205.xls
+2021-03-11 14:05:47,834 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 16
+2021-03-11 14:05:47,834 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-11 14:05:47,841 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-11 14:05:53,525 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://anyaut.com/test/
+2021-03-11 14:05:59,456 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 14:06:00,492 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="bs-example-navbar-collapse-1"]/ul/li[4]/a ,Test Data: 
+2021-03-11 14:06:02,064 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='username'] ,Test Data: interaft@mailinator.com
+2021-03-11 14:06:02,196 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='password'] ,Test Data: Atomic77
+2021-03-11 14:06:02,302 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 14:06:03,338 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@name='submit'] ,Test Data: -
+2021-03-11 14:06:22,707 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='sidebar-menu']//h3[.='Main Menu'] ,Test Data: MAIN MENU
+2021-03-11 14:06:22,784 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 14:06:23,812 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/a ,Test Data: -
+2021-03-11 14:06:24,130 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: 
+2021-03-11 14:06:24,179 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
+2021-03-11 14:06:38,725 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-11 14:06:39,762 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
