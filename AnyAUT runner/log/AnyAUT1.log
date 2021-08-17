@@ -1450,3 +1450,1157 @@
 2021-03-11 14:06:24,179 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div/div/div[2]/div/nav/ul/li/ul/li[2]/a ,Test Data: -
 2021-03-11 14:06:38,725 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
 2021-03-11 14:06:39,762 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:24:19,678 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 10:24:19,678 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_1024/TestRun_31Mar_1024.xls
+2021-03-31 10:24:20,278 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 10:24:20,279 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 10:24:20,280 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 10:24:20,280 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:24:20,286 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:24:20,291 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:24:20,294 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:24:20,300 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:24:20,304 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:24:20,309 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 10:24:20,316 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 10:24:23,124 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_1024/TestRun_31Mar_1024.xls
+2021-03-31 10:24:23,125 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_1024/RunResult_31Mar_1024.xls
+2021-03-31 10:24:23,244 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 167
+2021-03-31 10:24:23,246 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 10:24:23,252 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:24:26,170 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NullPointerException
+2021-03-31 10:24:26,437 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:24:28,314 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NullPointerException
+2021-03-31 10:24:28,366 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:24:30,246 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NullPointerException
+2021-03-31 10:24:30,300 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:24:32,066 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NullPointerException
+2021-03-31 10:24:32,111 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:24:33,932 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NullPointerException
+2021-03-31 10:24:33,972 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:24:35,805 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NullPointerException
+2021-03-31 10:25:12,484 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 10:25:12,489 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_1025/TestRun_31Mar_1025.xls
+2021-03-31 10:25:13,025 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 10:25:13,026 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 10:25:13,027 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 10:25:13,027 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:25:13,034 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:25:13,039 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:25:13,043 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:25:13,050 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:25:13,053 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 10:25:13,056 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 10:25:13,065 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 10:25:15,777 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_1025/TestRun_31Mar_1025.xls
+2021-03-31 10:25:15,777 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_1025/RunResult_31Mar_1025.xls
+2021-03-31 10:25:15,889 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 167
+2021-03-31 10:25:15,890 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 10:25:15,898 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:25:22,795 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:25:26,438 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:25:40,290 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:25:40,585 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:25:40,785 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:26:02,650 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 10:26:03,727 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 10:26:03,967 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:26:04,066 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:26:17,346 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 10:26:18,394 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:26:19,179 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 10:26:24,530 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:26:29,019 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:26:42,778 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:26:42,925 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:26:43,029 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:27:02,188 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 10:27:03,215 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 10:27:03,537 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:27:03,587 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:27:17,134 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 10:27:18,167 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:27:19,871 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:27:25,902 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:27:28,586 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:27:42,644 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:27:42,901 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:27:43,096 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:28:01,492 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 3
+2021-03-31 10:28:04,563 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //body/div[@id='main-wrapper']/main[1]/div[1]/nav[1]/ul[1]/li[4]/a[1] ,Test Data: -
+2021-03-31 10:28:20,765 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 3
+2021-03-31 10:28:23,831 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h6[contains(text(),'MATCH AND EXCHANGE WITH OUR PARTNERS')] ,Test Data: MATCH AND EXCHANGE WITH OUR PARTNERS
+2021-03-31 10:28:23,927 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 10:28:24,706 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 10:28:29,351 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:28:33,115 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:28:47,092 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:28:47,228 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:28:47,312 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:29:07,145 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 3
+2021-03-31 10:29:10,175 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //body/div[@id='main-wrapper']/main[1]/div[1]/nav[1]/ul[1]/li[4]/a[1] ,Test Data: -
+2021-03-31 10:29:24,567 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 3
+2021-03-31 10:29:27,606 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h6[contains(text(),'MATCH AND EXCHANGE WITH OUR PARTNERS')] ,Test Data: MATCH AND EXCHANGE WITH OUR PARTNERS
+2021-03-31 10:29:27,718 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 10:29:28,950 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:29:34,818 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:29:37,434 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:29:51,280 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:29:51,576 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:29:51,776 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:30:11,409 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 3
+2021-03-31 10:30:14,474 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Great Gift Wrap Up')] ,Test Data: -
+2021-03-31 10:30:43,957 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:30:44,810 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 10:30:49,472 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:30:53,801 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:31:07,833 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:31:07,966 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:31:08,046 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:31:27,812 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: 3
+2021-03-31 10:31:30,838 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Great Gift Wrap Up')] ,Test Data: -
+2021-03-31 10:32:04,216 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:32:05,494 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:32:11,340 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:32:14,437 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:32:28,403 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:32:28,653 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:32:28,861 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:32:47,754 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Profile')] ,Test Data: 
+2021-03-31 10:32:48,018 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[@id='edit-profile-top'] ,Test Data: 
+2021-03-31 10:33:01,325 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: 
+2021-03-31 10:33:01,496 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:33:01,527 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: NORTON STREET
+2021-03-31 10:33:01,769 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: 
+2021-03-31 10:33:01,840 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:33:01,872 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: No 15
+2021-03-31 10:33:02,047 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='footer-button-wrapper']//a[@id='editprofile-savechanges'] ,Test Data: 
+2021-03-31 10:33:02,282 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  - ,Element By:  - ,Element ID:  ,Test Data: 5
+2021-03-31 10:33:07,345 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: 
+2021-03-31 10:33:07,486 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: NORTON STREET
+2021-03-31 10:33:07,563 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'No 15')] ,Test Data: No 15
+2021-03-31 10:33:07,640 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 10:33:07,772 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:33:07,839 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:33:21,256 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 10:33:22,317 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:33:23,010 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 10:33:27,649 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:33:32,136 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:33:45,962 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:33:46,098 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:33:46,180 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:34:04,983 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Profile')] ,Test Data: 
+2021-03-31 10:34:05,176 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[@id='edit-profile-top'] ,Test Data: 
+2021-03-31 10:34:18,431 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: 
+2021-03-31 10:34:18,541 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:34:18,564 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: NORTON STREET
+2021-03-31 10:34:18,666 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: 
+2021-03-31 10:34:18,726 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:34:18,743 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: No 15
+2021-03-31 10:34:18,824 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='footer-button-wrapper']//a[@id='editprofile-savechanges'] ,Test Data: 
+2021-03-31 10:34:19,184 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  - ,Element By:  - ,Element ID:  ,Test Data: 5
+2021-03-31 10:34:24,214 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: 
+2021-03-31 10:34:24,324 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: NORTON STREET
+2021-03-31 10:34:24,386 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'No 15')] ,Test Data: No 15
+2021-03-31 10:34:24,473 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 10:34:24,747 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:34:24,793 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:34:39,476 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 10:34:40,500 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:34:41,978 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:34:47,815 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:34:51,183 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:35:04,843 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:35:05,088 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:35:05,275 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:35:26,204 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Win/Loss Statement')] ,Test Data: 
+2021-03-31 10:35:27,576 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[@id='jumptoheader'] ,Test Data: 
+2021-03-31 10:35:27,671 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:35:27,704 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='win-loss-statement-dropdown'] ,Test Data: 2019
+2021-03-31 10:35:27,909 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //input[@id='terms-and-conditions-checkbox'] ,Test Data: 
+2021-03-31 10:35:28,039 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@id='generate-statement-button'] ,Test Data: 
+2021-03-31 10:35:28,213 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By:  ,Element ID:  ,Test Data: 
+2021-03-31 10:35:28,914 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 10:35:33,064 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:35:37,681 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:35:51,946 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:35:52,073 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:35:52,150 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:36:11,994 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Win/Loss Statement')] ,Test Data: 
+2021-03-31 10:36:12,802 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[@id='jumptoheader'] ,Test Data: 
+2021-03-31 10:36:12,902 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:36:12,923 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='win-loss-statement-dropdown'] ,Test Data: 2019
+2021-03-31 10:36:24,944 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2021-03-31 10:36:26,132 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 10:36:31,952 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:36:34,676 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:36:48,516 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:36:48,820 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:36:49,002 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:37:07,523 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Rewards Statement')] ,Test Data: 
+2021-03-31 10:37:08,642 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[@id='jumptoheader'] ,Test Data: 
+2021-03-31 10:37:08,739 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:37:08,864 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='rewards-history-dropdown'] ,Test Data: December 2020
+2021-03-31 10:37:09,037 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  - ,Element By:  - ,Element ID:  ,Test Data: 5
+2021-03-31 10:37:14,099 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h5[contains(text(),'Earned Reward Credits')] ,Test Data: 
+2021-03-31 10:37:14,192 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:37:14,224 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h5[contains(text(),'Total Earned This Month')] ,Test Data: 
+2021-03-31 10:37:14,310 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:37:14,341 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 10:37:14,476 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:37:14,553 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 10:37:30,396 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 10:37:31,458 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 10:37:32,133 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 10:37:36,287 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 10:37:40,376 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 10:37:55,259 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 10:37:55,371 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 10:37:55,444 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 10:38:14,251 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Rewards Statement')] ,Test Data: 
+2021-03-31 10:38:15,056 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[@id='jumptoheader'] ,Test Data: 
+2021-03-31 10:38:15,136 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 10:38:15,154 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='rewards-history-dropdown'] ,Test Data: December 2020
+2021-03-31 10:38:27,181 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2021-03-31 14:22:36,654 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 14:22:36,659 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0222/TestRun_31Mar_0222.xls
+2021-03-31 14:22:37,249 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 14:22:37,250 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 14:22:37,251 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 14:22:37,251 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 14:22:37,256 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 14:22:37,260 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 14:22:38,119 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0222/TestRun_31Mar_0222.xls
+2021-03-31 14:22:38,120 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0222/RunResult_31Mar_0222.xls
+2021-03-31 14:22:38,171 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 21
+2021-03-31 14:22:38,172 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 14:22:38,183 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 14:22:45,609 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:22:48,884 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:23:02,899 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:23:03,412 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:23:03,711 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:23:24,259 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: linkText ,Element ID: Reservations ,Test Data: 
+2021-03-31 14:23:36,595 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2021-03-31 14:28:56,580 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 14:28:56,584 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0228/TestRun_31Mar_0228.xls
+2021-03-31 14:28:57,094 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 14:28:57,095 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 14:28:57,096 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 14:28:57,098 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 14:28:57,100 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 14:28:57,104 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 14:28:57,914 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0228/TestRun_31Mar_0228.xls
+2021-03-31 14:28:57,914 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0228/RunResult_31Mar_0228.xls
+2021-03-31 14:28:57,972 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 21
+2021-03-31 14:28:57,972 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 14:28:57,981 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 14:29:05,008 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:29:07,663 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:29:21,856 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:29:22,292 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:29:22,522 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:29:43,308 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: linkText ,Element ID: Reservations ,Test Data: 
+2021-03-31 14:29:55,530 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2021-03-31 14:31:13,785 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 14:31:13,790 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0231/TestRun_31Mar_0231.xls
+2021-03-31 14:31:14,297 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 14:31:14,298 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 14:31:14,299 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 14:31:14,300 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 14:31:14,304 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 14:31:14,307 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 14:31:15,171 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0231/TestRun_31Mar_0231.xls
+2021-03-31 14:31:15,172 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0231/RunResult_31Mar_0231.xls
+2021-03-31 14:31:15,211 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 21
+2021-03-31 14:31:15,211 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 14:31:15,220 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 14:31:22,062 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:31:30,079 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:31:45,647 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:31:46,169 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:31:46,500 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:32:15,021 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 14:32:15,534 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 14:32:52,777 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsVisible ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[contains(text(),'View or Modify Your Reservation')] ,Test Data: 5
+2021-03-31 14:32:52,947 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[contains(text(),'View or Modify Your Reservation')] ,Test Data: 
+2021-03-31 14:32:53,113 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 14:32:53,159 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 14:32:59,678 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:33:04,258 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:33:20,107 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:33:20,280 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:33:20,379 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:33:41,333 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 14:33:41,613 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 14:33:42,621 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : WebDriverException
+2021-03-31 14:35:52,964 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 14:35:52,969 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0235/TestRun_31Mar_0235.xls
+2021-03-31 14:35:53,477 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 14:35:53,478 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 14:35:53,479 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 14:35:53,479 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 14:35:53,484 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 14:35:53,487 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 14:35:54,374 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0235/TestRun_31Mar_0235.xls
+2021-03-31 14:35:54,374 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0235/RunResult_31Mar_0235.xls
+2021-03-31 14:35:54,414 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 21
+2021-03-31 14:35:54,414 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 14:35:54,422 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 14:36:01,319 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:36:05,826 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:36:20,552 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:36:21,010 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:36:21,219 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:36:42,482 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 14:36:42,999 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsVisible ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 5
+2021-03-31 14:36:47,028 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 14:37:35,283 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[contains(text(),'View or Modify Your Reservation')] ,Test Data: 
+2021-03-31 14:37:35,422 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 14:37:35,464 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 14:37:40,873 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:37:44,920 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:38:00,056 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:38:00,177 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:38:00,271 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:38:20,873 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 14:38:21,150 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsVisible ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 5
+2021-03-31 14:38:22,199 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 14:38:22,225 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : WebDriverException
+2021-03-31 14:40:25,123 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 14:40:25,127 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0240/TestRun_31Mar_0240.xls
+2021-03-31 14:40:25,655 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 14:40:25,656 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 14:40:25,656 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 14:40:25,657 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 14:40:25,661 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 14:40:25,665 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 14:40:26,458 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0240/TestRun_31Mar_0240.xls
+2021-03-31 14:40:26,458 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0240/RunResult_31Mar_0240.xls
+2021-03-31 14:40:26,517 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 21
+2021-03-31 14:40:26,517 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 14:40:26,526 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 14:40:33,482 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:40:38,525 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:40:53,098 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:40:53,354 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:40:53,594 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:41:15,317 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 14:41:15,800 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 5
+2021-03-31 14:41:17,512 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 14:41:49,907 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[contains(text(),'View or Modify Your Reservation')] ,Test Data: 
+2021-03-31 14:41:50,078 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 14:41:50,120 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 14:41:55,049 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 14:41:59,740 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 14:42:16,148 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 14:42:16,376 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 14:42:16,489 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 14:42:41,690 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 14:42:41,995 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 5
+2021-03-31 14:42:43,169 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 14:43:11,170 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[contains(text(),'View or Modify Your Reservation')] ,Test Data: 
+2021-03-31 14:43:11,262 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:06:25,131 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:06:25,136 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0306/TestRun_31Mar_0306.xls
+2021-03-31 15:06:25,672 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:06:25,673 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:06:25,673 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:06:25,674 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:06:25,677 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:06:25,680 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:06:26,584 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0306/TestRun_31Mar_0306.xls
+2021-03-31 15:06:26,584 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0306/RunResult_31Mar_0306.xls
+2021-03-31 15:06:26,620 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 19
+2021-03-31 15:06:26,620 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:06:26,627 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:06:33,387 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:06:36,577 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:06:50,817 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:06:51,091 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:06:51,293 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:07:10,942 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Price Alerts')] ,Test Data: 
+2021-03-31 15:07:11,221 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='Price Alerts'] ,Test Data: 
+2021-03-31 15:07:14,787 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:07:14,827 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 15:07:15,645 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 15:07:20,384 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:07:23,120 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:07:37,576 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:07:37,724 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:07:37,810 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:08:01,992 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Price Alerts')] ,Test Data: 
+2021-03-31 15:08:02,196 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='Price Alerts'] ,Test Data: 
+2021-03-31 15:08:05,257 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:08:05,284 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 15:21:33,898 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:21:33,904 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0321/TestRun_31Mar_0321.xls
+2021-03-31 15:21:34,436 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:21:34,436 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:21:34,437 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:21:34,438 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:21:34,442 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:21:34,444 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:21:35,268 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0321/TestRun_31Mar_0321.xls
+2021-03-31 15:21:35,269 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0321/RunResult_31Mar_0321.xls
+2021-03-31 15:21:35,305 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 23
+2021-03-31 15:21:35,305 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:21:35,311 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:21:42,417 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:21:44,702 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:21:59,005 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:21:59,275 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:21:59,472 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:22:18,019 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:22:18,237 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='//span[contains(text(),'CAESARS ENTERTAINMENT')]'] ,Test Data: 
+2021-03-31 15:22:18,268 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : InvalidSelectorException
+2021-03-31 15:26:27,850 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:26:27,855 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0326/TestRun_31Mar_0326.xls
+2021-03-31 15:26:28,372 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:26:28,373 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:26:28,374 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:26:28,374 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:26:28,379 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:26:28,382 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:26:29,310 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0326/TestRun_31Mar_0326.xls
+2021-03-31 15:26:29,311 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0326/RunResult_31Mar_0326.xls
+2021-03-31 15:26:29,362 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 23
+2021-03-31 15:26:29,363 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:26:29,371 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:26:36,290 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:26:39,975 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:26:54,254 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:26:54,518 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:26:54,728 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:27:13,797 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:27:13,983 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:27:20,170 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:27:20,203 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='ddlProperty'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 15:27:32,340 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2021-03-31 15:29:56,890 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:29:56,894 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0329/TestRun_31Mar_0329.xls
+2021-03-31 15:29:57,443 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:29:57,444 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:29:57,445 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:29:57,445 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:29:57,450 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:29:57,453 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:29:58,411 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0329/TestRun_31Mar_0329.xls
+2021-03-31 15:29:58,412 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0329/RunResult_31Mar_0329.xls
+2021-03-31 15:29:58,460 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 23
+2021-03-31 15:29:58,460 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:29:58,469 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:30:05,429 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:30:09,005 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:30:25,189 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:30:25,443 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:30:25,641 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:30:45,817 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:30:45,984 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:30:51,812 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:30:51,845 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@id='ddlProperty'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 15:31:03,928 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2021-03-31 15:32:39,220 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:32:39,225 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0332/TestRun_31Mar_0332.xls
+2021-03-31 15:32:39,756 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:32:39,757 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:32:39,758 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:32:39,758 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:32:39,763 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:32:39,766 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:32:40,687 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0332/TestRun_31Mar_0332.xls
+2021-03-31 15:32:40,687 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0332/RunResult_31Mar_0332.xls
+2021-03-31 15:32:40,722 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 23
+2021-03-31 15:32:40,723 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:32:40,731 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:32:47,779 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:32:50,813 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:33:06,084 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:33:06,343 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:33:06,542 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:33:25,624 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:33:25,867 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:33:32,244 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:33:32,282 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: Caesars Palace Las Vegas
+2021-03-31 15:33:51,308 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h2[text()='CREDIT APPLICATION'] ,Test Data: 
+2021-03-31 15:33:51,468 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:33:51,533 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 15:33:52,427 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 15:33:57,694 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:33:59,915 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:34:15,251 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:34:15,418 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:34:15,508 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:34:34,505 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:34:39,866 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:34:51,892 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : NoSuchElementException
+2021-03-31 15:37:49,154 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:37:49,159 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0337/TestRun_31Mar_0337.xls
+2021-03-31 15:37:49,711 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:37:49,711 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:37:49,712 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:37:49,712 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:37:49,715 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:37:49,718 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:37:50,515 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0337/TestRun_31Mar_0337.xls
+2021-03-31 15:37:50,515 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0337/RunResult_31Mar_0337.xls
+2021-03-31 15:37:50,556 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 25
+2021-03-31 15:37:50,557 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:37:50,565 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:37:57,599 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:38:00,685 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:38:15,143 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:38:15,407 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:38:15,601 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:38:34,406 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:38:34,611 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 5
+2021-03-31 15:38:40,874 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:38:40,966 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:38:40,996 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: Caesars Palace Las Vegas
+2021-03-31 15:39:02,138 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h2[text()='CREDIT APPLICATION'] ,Test Data: 
+2021-03-31 15:39:02,301 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:39:02,366 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 15:39:03,229 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 15:39:07,922 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:39:10,771 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:39:26,076 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:39:26,235 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:39:26,317 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:39:45,999 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:39:46,896 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 5
+2021-03-31 15:39:53,402 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:39:53,473 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:39:53,497 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: Caesars Palace Las Vegas
+2021-03-31 15:39:53,552 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : ElementNotInteractableException
+2021-03-31 15:41:57,241 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:41:57,245 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0341/TestRun_31Mar_0341.xls
+2021-03-31 15:41:57,777 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:41:57,778 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:41:57,779 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:41:57,779 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:41:57,784 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:41:57,788 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:41:58,771 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0341/TestRun_31Mar_0341.xls
+2021-03-31 15:41:58,771 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0341/RunResult_31Mar_0341.xls
+2021-03-31 15:41:58,813 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 27
+2021-03-31 15:41:58,814 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:41:58,822 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:42:05,837 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:42:09,512 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:42:23,655 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:42:23,911 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:42:24,105 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:42:42,798 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:42:43,028 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 5
+2021-03-31 15:42:54,156 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : TimeoutException
+2021-03-31 15:46:55,938 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:46:55,943 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0346/TestRun_31Mar_0346.xls
+2021-03-31 15:46:56,492 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:46:56,493 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:46:56,494 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:46:56,494 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:46:56,499 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:46:56,503 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:46:57,317 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0346/TestRun_31Mar_0346.xls
+2021-03-31 15:46:57,318 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0346/RunResult_31Mar_0346.xls
+2021-03-31 15:46:57,360 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 27
+2021-03-31 15:46:57,360 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:46:57,368 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:47:04,552 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:47:07,137 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:47:21,243 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:47:21,543 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:47:21,742 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:47:40,583 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:47:40,780 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 15:47:47,431 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:47:47,523 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:47:47,552 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: 5
+2021-03-31 15:47:52,599 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : TimeoutException
+2021-03-31 15:49:49,823 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:49:49,828 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0349/TestRun_31Mar_0349.xls
+2021-03-31 15:49:50,353 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:49:50,353 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:49:50,354 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:49:50,355 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:49:50,360 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:49:50,363 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:49:51,308 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0349/TestRun_31Mar_0349.xls
+2021-03-31 15:49:51,308 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0349/RunResult_31Mar_0349.xls
+2021-03-31 15:49:51,348 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 27
+2021-03-31 15:49:51,349 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:49:51,355 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:49:58,056 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:50:01,621 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:50:16,022 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:50:16,277 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:50:16,463 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:50:44,191 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:50:45,332 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : WebDriverException
+2021-03-31 15:55:39,575 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:55:39,580 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0355/TestRun_31Mar_0355.xls
+2021-03-31 15:55:40,102 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:55:40,103 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:55:40,104 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:55:40,104 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:55:40,110 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:55:40,113 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:55:40,975 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0355/TestRun_31Mar_0355.xls
+2021-03-31 15:55:40,975 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0355/RunResult_31Mar_0355.xls
+2021-03-31 15:55:41,018 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 29
+2021-03-31 15:55:41,018 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:55:41,024 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:55:48,183 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:55:51,214 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:56:06,248 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:56:06,516 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:56:06,715 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 15:56:25,993 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:56:26,138 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 15:56:26,300 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 15:56:32,278 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 15:56:32,366 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 15:56:32,399 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsVisible ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: 5
+2021-03-31 15:56:37,436 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : TimeoutException
+2021-03-31 15:59:11,101 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 15:59:11,105 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0359/TestRun_31Mar_0359.xls
+2021-03-31 15:59:11,650 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 15:59:11,651 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 15:59:11,652 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 15:59:11,652 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 15:59:11,657 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 15:59:11,661 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 15:59:12,615 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0359/TestRun_31Mar_0359.xls
+2021-03-31 15:59:12,615 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0359/RunResult_31Mar_0359.xls
+2021-03-31 15:59:12,658 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 27
+2021-03-31 15:59:12,658 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 15:59:12,666 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 15:59:19,463 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 15:59:22,975 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 15:59:36,872 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 15:59:37,141 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 15:59:37,339 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:00:00,369 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:00:00,444 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:00:00,618 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:00:06,668 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:00:06,757 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:00:06,784 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: Caesars Palace Las Vegas
+2021-03-31 16:00:26,977 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h2[text()='CREDIT APPLICATION'] ,Test Data: 
+2021-03-31 16:00:27,148 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:00:27,220 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:00:28,103 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 16:00:32,804 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:00:35,435 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:00:50,561 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:00:50,677 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:00:50,765 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:01:10,169 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:01:10,223 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:01:10,578 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:01:20,667 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:01:20,732 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:01:20,755 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: Caesars Palace Las Vegas
+2021-03-31 16:01:20,801 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : ElementNotInteractableException
+2021-03-31 16:02:38,745 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 16:02:38,749 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0402/TestRun_31Mar_0402.xls
+2021-03-31 16:02:39,292 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 16:02:39,293 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 16:02:39,293 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 16:02:39,294 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 16:02:39,299 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 16:02:39,302 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 16:02:40,157 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0402/TestRun_31Mar_0402.xls
+2021-03-31 16:02:40,157 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0402/RunResult_31Mar_0402.xls
+2021-03-31 16:02:40,200 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 29
+2021-03-31 16:02:40,200 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 16:02:40,207 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 16:02:47,272 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:02:50,100 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:03:04,353 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:03:04,616 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:03:04,818 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:03:23,899 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:03:23,977 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:03:24,150 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:03:30,677 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:03:30,767 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:03:30,795 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: id ,Element ID: property ,Test Data: 8
+2021-03-31 16:03:39,230 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : TimeoutException
+2021-03-31 16:05:29,207 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 16:05:29,211 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0405/TestRun_31Mar_0405.xls
+2021-03-31 16:05:29,732 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 16:05:29,733 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 16:05:29,734 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 16:05:29,734 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 16:05:29,739 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 16:05:29,743 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 16:05:30,589 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0405/TestRun_31Mar_0405.xls
+2021-03-31 16:05:30,590 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0405/RunResult_31Mar_0405.xls
+2021-03-31 16:05:30,637 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 29
+2021-03-31 16:05:30,637 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 16:05:30,645 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 16:05:37,706 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:05:40,651 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:05:54,659 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:05:54,928 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:05:55,130 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:06:14,678 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:06:14,745 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:06:14,920 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:06:21,682 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:06:21,768 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:06:21,804 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 8
+2021-03-31 16:06:30,073 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : TimeoutException
+2021-03-31 16:17:48,581 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 16:17:48,585 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0417/TestRun_31Mar_0417.xls
+2021-03-31 16:17:49,126 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 16:17:49,127 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 16:17:49,128 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 16:17:49,129 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 16:17:49,134 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 16:17:49,137 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 16:17:49,968 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0417/TestRun_31Mar_0417.xls
+2021-03-31 16:17:49,968 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0417/RunResult_31Mar_0417.xls
+2021-03-31 16:17:50,010 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 29
+2021-03-31 16:17:50,011 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 16:17:50,020 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 16:17:56,984 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:18:00,208 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:18:14,214 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:18:14,475 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:18:14,674 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:18:33,558 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:18:33,630 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:18:33,808 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:18:39,673 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:18:39,761 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:18:39,791 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 5
+2021-03-31 16:18:44,874 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 16:18:55,886 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h2[text()='CREDIT APPLICATION'] ,Test Data: 
+2021-03-31 16:18:56,045 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:18:56,105 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:18:56,881 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 16:19:01,570 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:19:03,753 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:19:18,697 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:19:18,862 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:19:18,958 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:19:37,932 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:19:37,985 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:19:43,355 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:19:47,370 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:19:47,441 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:19:47,461 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 5
+2021-03-31 16:19:52,520 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 16:19:52,589 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : WebDriverException
+2021-03-31 16:21:53,756 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 16:21:53,761 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0420/TestRun_31Mar_0420.xls
+2021-03-31 16:21:54,313 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 16:21:54,314 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 16:21:54,315 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 16:21:54,315 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 16:21:54,321 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 16:21:54,324 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 16:21:55,272 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0420/TestRun_31Mar_0420.xls
+2021-03-31 16:21:55,272 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0420/RunResult_31Mar_0420.xls
+2021-03-31 16:21:55,317 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 29
+2021-03-31 16:21:55,318 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 16:21:55,325 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 16:22:02,303 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:22:05,717 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:22:19,935 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:22:20,195 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:22:20,394 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:22:39,155 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:22:39,220 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:22:39,393 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:22:45,621 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:22:45,709 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:22:45,739 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 8
+2021-03-31 16:22:53,848 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 16:23:00,334 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h2[text()='CREDIT APPLICATION'] ,Test Data: 
+2021-03-31 16:23:00,473 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:23:00,531 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:23:01,346 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 16:23:06,571 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:23:10,475 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:23:24,970 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:23:25,112 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:23:25,193 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:23:42,954 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:23:42,993 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:23:43,833 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:23:56,374 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : TimeoutException
+2021-03-31 16:25:41,676 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 16:25:41,681 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0425/TestRun_31Mar_0425.xls
+2021-03-31 16:25:42,302 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 16:25:42,302 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 16:25:42,303 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 16:25:42,303 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 16:25:42,310 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 16:25:42,314 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 16:25:43,413 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0425/TestRun_31Mar_0425.xls
+2021-03-31 16:25:43,414 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0425/RunResult_31Mar_0425.xls
+2021-03-31 16:25:43,480 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 29
+2021-03-31 16:25:43,480 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 16:25:43,490 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 16:25:51,061 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:25:53,671 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:26:08,123 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:26:08,550 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:26:08,885 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:26:28,317 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:26:28,438 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:26:28,683 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:26:36,808 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:26:37,078 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:26:37,122 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 8
+2021-03-31 16:26:45,229 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 16:26:52,512 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h2[text()='CREDIT APPLICATION'] ,Test Data: 
+2021-03-31 16:26:52,687 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:26:52,752 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:26:53,486 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 16:26:58,371 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:27:00,574 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:27:15,358 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:27:15,528 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:27:15,656 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:27:35,548 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 16:27:35,603 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 16:27:54,081 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 16:28:02,147 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 16:28:02,291 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:28:02,320 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 8
+2021-03-31 16:28:10,382 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 16:28:10,469 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : WebDriverException
+2021-03-31 16:40:28,850 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 16:40:28,854 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0440/TestRun_31Mar_0440.xls
+2021-03-31 16:40:29,398 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 16:40:29,399 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 16:40:29,401 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 16:40:29,401 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 16:40:29,406 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 16:40:29,409 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 16:40:30,431 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0440/TestRun_31Mar_0440.xls
+2021-03-31 16:40:30,432 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0440/RunResult_31Mar_0440.xls
+2021-03-31 16:40:30,489 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 27
+2021-03-31 16:40:30,490 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 16:40:30,498 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 16:40:37,364 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:40:42,355 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:40:58,189 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:40:58,657 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:40:58,916 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:41:26,418 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'My Leaderboard')] ,Test Data: 
+2021-03-31 16:41:27,092 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='My Leaderboard'] ,Test Data: 
+2021-03-31 16:41:28,680 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:41:28,724 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 16:41:28,893 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 16:41:28,979 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 16:41:46,057 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 16:41:47,097 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 16:41:48,180 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 16:41:53,703 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:41:57,860 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:42:12,135 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:42:12,327 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:42:12,452 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:42:30,922 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'My Leaderboard')] ,Test Data: 
+2021-03-31 16:42:31,096 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='My Leaderboard'] ,Test Data: 
+2021-03-31 16:42:31,833 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:42:31,865 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 16:42:32,172 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 16:42:32,236 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 16:42:48,549 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 16:42:49,574 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 16:58:44,589 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 16:58:44,593 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0458/TestRun_31Mar_0458.xls
+2021-03-31 16:58:45,118 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 16:58:45,119 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 16:58:45,120 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 16:58:45,121 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 16:58:45,126 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 16:58:45,129 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 16:58:46,129 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0458/TestRun_31Mar_0458.xls
+2021-03-31 16:58:46,129 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0458/RunResult_31Mar_0458.xls
+2021-03-31 16:58:46,175 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 27
+2021-03-31 16:58:46,175 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 16:58:46,183 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 16:58:53,315 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 16:58:56,355 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 16:59:11,468 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 16:59:11,722 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 16:59:11,910 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 16:59:36,062 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Quest For Rewards')] ,Test Data: 
+2021-03-31 16:59:54,361 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='QUEST FOR REWARDS'] ,Test Data: 
+2021-03-31 16:59:54,484 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 16:59:54,520 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 16:59:54,682 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 16:59:54,766 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:00:10,888 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 17:00:11,950 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 17:00:12,787 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 17:00:17,513 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:00:19,814 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:00:36,834 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:00:36,959 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:00:37,058 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:00:56,296 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Quest For Rewards')] ,Test Data: 
+2021-03-31 17:01:14,733 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='QUEST FOR REWARDS'] ,Test Data: 
+2021-03-31 17:01:14,830 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:01:14,851 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 17:01:15,132 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:01:15,184 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:01:29,691 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 17:01:30,724 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 17:07:29,748 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v6.xls
+2021-03-31 17:07:29,753 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_31Mar_0507_New_Scenarios/TestRun_31Mar_0507_New_Scenarios.xls
+2021-03-31 17:07:30,316 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-03-31 17:07:30,317 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-03-31 17:07:30,317 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-03-31 17:07:30,318 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 17:07:30,322 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 17:07:30,328 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 17:07:30,331 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 17:07:30,334 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-03-31 17:07:30,339 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-03-31 17:07:30,343 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-03-31 17:07:32,305 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0507_New_Scenarios/TestRun_31Mar_0507_New_Scenarios.xls
+2021-03-31 17:07:32,305 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_31Mar_0507_New_Scenarios/RunResult_31Mar_0507_New_Scenarios.xls
+2021-03-31 17:07:32,388 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 119
+2021-03-31 17:07:32,389 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-03-31 17:07:32,400 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 17:07:39,320 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:07:44,076 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:07:59,092 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:07:59,335 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:07:59,543 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:08:22,399 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'My Leaderboard')] ,Test Data: 
+2021-03-31 17:08:22,670 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='My Leaderboard'] ,Test Data: 
+2021-03-31 17:08:23,547 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:08:23,584 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 17:08:23,727 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:08:23,811 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:08:38,515 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 17:08:39,551 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 17:08:40,437 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 17:08:45,217 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:08:48,982 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:09:02,922 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:09:03,062 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:09:03,152 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:09:21,199 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'My Leaderboard')] ,Test Data: 
+2021-03-31 17:09:21,385 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='My Leaderboard'] ,Test Data: 
+2021-03-31 17:09:22,290 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:09:22,313 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 17:09:22,592 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:09:22,644 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:09:37,454 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 17:09:38,478 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 17:09:40,126 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 17:09:46,038 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:09:48,879 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:10:02,967 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:10:03,245 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:10:03,443 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:10:22,668 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Quest For Rewards')] ,Test Data: 
+2021-03-31 17:10:38,768 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='QUEST FOR REWARDS'] ,Test Data: 
+2021-03-31 17:10:38,919 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:10:38,954 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 17:10:39,086 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:10:39,175 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:10:53,884 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 17:10:54,948 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 17:10:55,760 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 17:11:00,410 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:11:02,709 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:11:17,673 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:11:17,794 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:11:17,880 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:11:37,154 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Quest For Rewards')] ,Test Data: 
+2021-03-31 17:11:53,528 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='QUEST FOR REWARDS'] ,Test Data: 
+2021-03-31 17:11:53,621 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:11:53,645 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-03-31 17:11:53,930 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:11:53,997 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-03-31 17:12:08,615 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-03-31 17:12:09,641 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-03-31 17:12:11,001 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 17:12:16,902 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:12:19,832 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:12:33,797 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:12:34,100 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:12:34,284 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:12:59,908 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 17:13:00,182 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 5
+2021-03-31 17:13:02,516 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 17:13:34,709 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[contains(text(),'View or Modify Your Reservation')] ,Test Data: 
+2021-03-31 17:13:34,837 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:13:34,870 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 17:13:39,982 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:13:42,978 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:13:58,077 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:13:58,230 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:13:58,307 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:14:17,152 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Reservations')] ,Test Data: 
+2021-03-31 17:14:17,330 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitTillElementIsEnabled ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 5
+2021-03-31 17:14:18,752 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: id ,Element ID: 0 ,Test Data: 
+2021-03-31 17:14:45,124 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[contains(text(),'View or Modify Your Reservation')] ,Test Data: 
+2021-03-31 17:14:45,219 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:14:45,295 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 17:14:51,185 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:14:54,736 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:15:42,583 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:15:42,869 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:15:43,044 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:16:10,709 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Price Alerts')] ,Test Data: 
+2021-03-31 17:16:10,974 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='Price Alerts'] ,Test Data: 
+2021-03-31 17:16:13,349 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:16:13,380 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 17:16:14,265 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 17:16:18,914 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:16:22,368 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:16:40,648 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:16:40,773 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:16:40,856 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:17:04,393 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Price Alerts')] ,Test Data: 
+2021-03-31 17:17:04,572 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h1[text()='Price Alerts'] ,Test Data: 
+2021-03-31 17:17:05,998 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:17:06,017 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 17:17:07,262 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-03-31 17:17:13,259 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:17:18,474 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:17:34,434 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:17:34,713 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:17:34,927 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:18:11,278 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 17:18:11,393 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 17:18:38,226 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 17:18:46,300 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 17:18:46,395 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:18:46,425 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 8
+2021-03-31 17:18:54,511 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 17:19:30,944 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //h2[text()='CREDIT APPLICATION'] ,Test Data: 
+2021-03-31 17:19:31,093 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:19:31,151 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: Reusable Element ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 17:19:32,030 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-03-31 17:19:36,197 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-03-31 17:19:41,745 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-03-31 17:19:56,909 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-03-31 17:19:57,055 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-03-31 17:19:57,140 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-03-31 17:20:16,987 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollDown ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 
+2021-03-31 17:20:17,033 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Casino Credit')] ,Test Data: 
+2021-03-31 17:20:41,857 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 8
+2021-03-31 17:20:49,924 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'CAESARS ENTERTAINMENT')] ,Test Data: 
+2021-03-31 17:20:50,041 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-03-31 17:20:50,061 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: 8
+2021-03-31 17:20:58,112 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: selectList ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //select[@class='selectpicker form-control input-sm'] ,Test Data: Caesars Palace Las Vegas
+2021-03-31 17:20:58,181 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : WebDriverException
+2021-04-12 14:29:00,881 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v7.xls
+2021-04-12 14:29:00,888 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_12Apr_0228/TestRun_12Apr_0228.xls
+2021-04-12 14:29:01,528 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-04-12 14:29:01,529 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-04-12 14:29:01,530 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-04-12 14:29:01,531 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-04-12 14:29:01,536 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-04-12 14:29:01,540 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-04-12 14:29:02,569 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0228/TestRun_12Apr_0228.xls
+2021-04-12 14:29:02,569 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0228/RunResult_12Apr_0228.xls
+2021-04-12 14:29:02,638 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 23
+2021-04-12 14:29:02,639 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-04-12 14:29:02,650 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: vBrowser
+2021-04-12 14:29:10,640 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: vURL
+2021-04-12 14:29:10,652 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : InvalidArgumentException
+2021-04-12 14:30:29,513 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v7.xls
+2021-04-12 14:30:29,518 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_12Apr_0230/TestRun_12Apr_0230.xls
+2021-04-12 14:30:30,036 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-04-12 14:30:30,037 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-04-12 14:30:30,038 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-04-12 14:30:30,038 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-04-12 14:30:30,042 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-04-12 14:30:30,045 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-04-12 14:30:31,100 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0230/TestRun_12Apr_0230.xls
+2021-04-12 14:30:31,100 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0230/RunResult_12Apr_0230.xls
+2021-04-12 14:30:31,152 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 23
+2021-04-12 14:30:31,153 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-04-12 14:30:31,158 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: vBrowser
+2021-04-12 14:30:38,178 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: vURL
+2021-04-12 14:30:38,189 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : InvalidArgumentException
+2021-04-12 14:31:58,919 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v7.xls
+2021-04-12 14:31:58,923 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_12Apr_0231/TestRun_12Apr_0231.xls
+2021-04-12 14:31:59,448 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-04-12 14:31:59,448 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-04-12 14:31:59,449 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-04-12 14:31:59,450 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-04-12 14:31:59,455 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-04-12 14:31:59,460 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-04-12 14:32:00,596 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0231/TestRun_12Apr_0231.xls
+2021-04-12 14:32:00,596 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0231/RunResult_12Apr_0231.xls
+2021-04-12 14:32:00,638 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 45
+2021-04-12 14:32:00,638 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-04-12 14:32:00,646 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2021-04-12 14:32:07,847 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-04-12 14:32:12,823 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-04-12 14:32:27,047 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-04-12 14:32:27,439 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-04-12 14:32:27,724 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-04-12 14:32:47,735 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Profile')] ,Test Data: 
+2021-04-12 14:32:48,215 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[@id='edit-profile-top'] ,Test Data: 
+2021-04-12 14:33:01,777 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: 
+2021-04-12 14:33:01,970 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-04-12 14:33:02,032 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: NORTON STREET
+2021-04-12 14:33:02,415 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: 
+2021-04-12 14:33:02,565 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-04-12 14:33:02,622 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: No 15
+2021-04-12 14:33:02,928 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='footer-button-wrapper']//a[@id='editprofile-savechanges'] ,Test Data: 
+2021-04-12 14:33:03,116 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  - ,Element By:  - ,Element ID:  ,Test Data: 5
+2021-04-12 14:33:08,224 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: 
+2021-04-12 14:33:08,597 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: NORTON STREET
+2021-04-12 14:33:08,795 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'No 15')] ,Test Data: No 15
+2021-04-12 14:33:08,912 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-04-12 14:33:09,128 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-04-12 14:33:09,236 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-04-12 14:33:24,302 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-04-12 14:33:25,335 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-04-12 14:33:26,166 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Firefox
+2021-04-12 14:33:32,238 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://www.caesars.com/program/
+2021-04-12 14:33:35,616 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'Sign In')] ,Test Data: 
+2021-04-12 14:33:49,760 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userID ,Test Data: karthikkosireddi@gmail.com
+2021-04-12 14:33:49,916 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: userPassword ,Test Data: KKisKing123$
+2021-04-12 14:33:50,049 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN IN')] ,Test Data: 
+2021-04-12 14:34:09,959 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='content-wrapper']//li//a[contains(text(),'Profile')] ,Test Data: 
+2021-04-12 14:34:10,358 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[@id='edit-profile-top'] ,Test Data: 
+2021-04-12 14:34:23,683 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: 
+2021-04-12 14:34:23,889 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-04-12 14:34:23,939 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: address2 ,Test Data: NORTON STREET
+2021-04-12 14:34:24,205 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: isDisplayed ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: 
+2021-04-12 14:34:24,331 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - is displayed Pass
+2021-04-12 14:34:24,366 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: apartmentNumber ,Test Data: No 15
+2021-04-12 14:34:24,479 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //div[@id='footer-button-wrapper']//a[@id='editprofile-savechanges'] ,Test Data: 
+2021-04-12 14:34:24,832 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  - ,Element By:  - ,Element ID:  ,Test Data: 5
+2021-04-12 14:34:29,851 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: 
+2021-04-12 14:34:29,978 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'NORTON STREET')] ,Test Data: NORTON STREET
+2021-04-12 14:34:30,066 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[contains(text(),'No 15')] ,Test Data: No 15
+2021-04-12 14:34:30,133 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //span[@id='mytr_text'] ,Test Data: -
+2021-04-12 14:34:30,449 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: scrollByElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-04-12 14:34:30,514 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: clickElement ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //a[contains(text(),'SIGN OUT')] ,Test Data: -
+2021-04-12 14:34:45,619 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: waitForSeconds ,Element Type:  ,Element By: - ,Element ID: - ,Test Data: 1
+2021-04-12 14:34:46,633 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: quitBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2021-04-12 14:37:29,858 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Input FIle Path: C:\AA\runner\AnyAUT runner\Demo_Caesars_v7.xls
+2021-04-12 14:37:29,863 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Output file path  :C:\AA\runner\AnyAUT runner\Results\TestRun_12Apr_0237/TestRun_12Apr_0237.xls
+2021-04-12 14:37:30,463 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Entered Main Test
+2021-04-12 14:37:30,464 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching the test cases ready for execution
+2021-04-12 14:37:30,465 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed assigning the top row
+2021-04-12 14:37:30,465 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Completed fetching test data sets for test case
+2021-04-12 14:37:30,470 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Main test preparation is completed
+2021-04-12 14:37:30,474 [AWT-EventQueue-0] INFO com.AnyAUT.PrepareRun - Test Cases are added to the array
+2021-04-12 14:37:31,444 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0237/TestRun_12Apr_0237.xls
+2021-04-12 14:37:31,445 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - C:\AA\runner\AnyAUT runner/Results/TestRun_12Apr_0237/RunResult_12Apr_0237.xls
+2021-04-12 14:37:31,494 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Rows are 23
+2021-04-12 14:37:31,495 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - Cols are 256
+2021-04-12 14:37:31,507 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: vBrowser
+2021-04-12 14:37:39,000 [AWT-EventQueue-0] INFO com.AnyAUT.ExecuteTest - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: vURL
+2021-04-12 14:37:39,024 [AWT-EventQueue-0] ERROR com.AnyAUT.ExecuteTest - Error : InvalidArgumentException
